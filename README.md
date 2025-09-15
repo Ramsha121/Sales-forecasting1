@@ -1,4 +1,6 @@
-🌟 𝑺𝒂𝒍𝒆𝒔 𝑭𝒐𝒓𝒆𝒄𝒂𝒔𝒕𝒊𝒏𝒈 𝑴𝒆𝒆𝒕𝒔 𝑷𝒓𝒆𝒄𝒊𝒔𝒊𝒐𝒏: 𝑨𝑹𝑰𝑴𝑨 + 𝑺𝑨𝑹𝑰𝑴𝑨 𝒊𝒏 𝑨𝒄𝒕𝒊𝒐𝒏! 📈Over the past few weeks, I’ve been diving deep into time series forecasting, not just to crunch numbers, but to make data predict the future. Sounds exciting? It was.
+🌟 𝑺𝒂𝒍𝒆𝒔 𝑭𝒐𝒓𝒆𝒄𝒂𝒔𝒕𝒊𝒏𝒈 𝑴𝒆𝒆𝒕𝒔 𝑷𝒓𝒆𝒄𝒊𝒔𝒊𝒐𝒏: 𝑨𝑹𝑰𝑴𝑨 + 𝑺𝑨𝑹𝑰𝑴𝑨 𝒊𝒏 𝑨𝒄𝒕𝒊𝒐𝒏!
+
+📈Over the past few weeks, I’ve been diving deep into time series forecasting, not just to crunch numbers, but to make data predict the future. Sounds exciting? It was.
 🔍 I took on a challenge: forecasting monthly sales using ARIMA and SARIMA models — starting from scratch, tuning parameters manually, then automating the process through code to compare outcomes.
 💡 What I did:
 Explored 8 different combinations of ARIMA (p,d,q) manually.
@@ -24,4 +26,6 @@ Why this matters:
 * Allocate resources intelligently
 * Mitigate business risks with foresight
 ✨ Whether you're into time series, forecasting, or just curious how seasonal patterns can be predicted — let’s connect! Happy to share ideas, code, or even nerd out on ARIMA vs LSTM.
-hashtag#DataScience hashtag#TimeSeriesAnalysis hashtag#Forecasting hashtag#ARIMA hashtag#SARIMA hashtag#Python hashtag#BusinessIntelligence hashtag#AIC hashtag#RetailAnalytics hashtag#StudentProject hashtag#SalesForecasting
+
+
+#DataScience hashtag#TimeSeriesAnalysis hashtag#Forecasting hashtag#ARIMA hashtag#SARIMA hashtag#Python hashtag#BusinessIntelligence hashtag#AIC hashtag#RetailAnalytics hashtag#StudentProject hashtag#SalesForecasting
