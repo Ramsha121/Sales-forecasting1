@@ -2,6 +2,7 @@
 
 📈Over the past few weeks, I’ve been diving deep into time series forecasting, not just to crunch numbers, but to make data predict the future. Sounds exciting? It was.
 🔍 I took on a challenge: forecasting monthly sales using ARIMA and SARIMA models — starting from scratch, tuning parameters manually, then automating the process through code to compare outcomes.
+
 💡 What I did:
 Explored 8 different combinations of ARIMA (p,d,q) manually.
 Visualized and evaluated each for forecasting performance.
